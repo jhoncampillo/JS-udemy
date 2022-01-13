@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
 marca.addEventListener("change", (e) => {
   datosBusqueda.marca = e.target.value;
   //console.log(datosBusqueda);
-  //creo funciones de lato nivel para que los filtros se generen de manera automativa
+  //creo funciones de alto nivel para que los filtros se generen de manera automativa
   filtrarAuto();
 });
 year.addEventListener("change", (e) => {
