@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\Google Asyn-Await"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "JS Moderno"
+  }
+}

@@ -1,0 +1,6 @@
+Informacion desde un archivo .txt
+Dios
+Casa
+Carro
+Finca
+Salud
